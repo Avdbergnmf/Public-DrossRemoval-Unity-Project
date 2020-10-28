@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ForceFieldV2 Ripple
+  m_Shader: {fileID: -6465566751694194690, guid: 83ca9e8462e28564fb19ae55e1623fed,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_814A44A4:
+        m_Texture: {fileID: 2800000, guid: 24ea26d0a78129b4c87abc0b45b33007, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_867C00F3: 3.2
+    - Vector1_D191683F: 0.8
+    - Vector1_E6EF73D6: 2
+    - Vector1_E77B1B7A: 0
+    - Vector1_E79E341C: 0.3
+    - Vector1_FC28B660: 0.05
+    m_Colors:
+    - Color_569668E2: {r: 1, g: 1, b: 1, a: 1}
+    - Color_F05DC9EF: {r: 7.3772106, g: 1.3132207, b: 0, a: 1}
+    - Vector3_357AD4B0: {r: 0.05, g: 0.05, b: 0.05, a: 0}
+    - Vector3_3A37ED30: {r: -0.5, g: 0.5, b: 0, a: 0}
+    - _SphereCenter: {r: 0, g: 0, b: 0.42, a: 0}

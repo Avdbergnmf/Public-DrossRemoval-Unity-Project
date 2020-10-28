@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_OceanEffect
+  m_Shader: {fileID: -6465566751694194690, guid: add0d5dfbbc68e34bb2c7d229a487c55,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_77745502:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_8A95CEEE:
+        m_Texture: {fileID: 2800000, guid: a20c1d2004a92494f81d2e4a605d6e6e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_F35D47CC:
+        m_Texture: {fileID: 2800000, guid: 49fed344e2ac4ec4bb04fdf3866bac2e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _Intersections_5D616E10_Texture2D2C09DB69_219960654:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_192ABB: 0.884
+    - Vector1_33603BC3: 0.41
+    - Vector1_500326A0: 0.7
+    - Vector1_6032D966: 68.1
+    - Vector1_60FF7735: 1
+    - Vector1_708F300: 1
+    - Vector1_73F7DAA5: 1
+    - Vector1_90A4F962: 0.72
+    - Vector1_929679F7: 1
+    - Vector1_B93618B0: 0.5
+    - Vector1_CF948388: 0.3
+    - Vector1_E5680AA4: 1
+    m_Colors:
+    - Color_61BC06DD: {r: 0, g: 0.003921569, b: 0.028186275, a: 0}
+    - Color_91FE80E1: {r: 1, g: 0, b: 0, a: 1}
+    - Color_B65C5706: {r: 0.06282722, g: 0.16492146, b: 0.30366492, a: 1}
+    - Color_FFD3CE6B: {r: 0, g: 0.0024509805, b: 0.00882353, a: 1}
+    - Vector2_7778AD5D: {r: 5, g: 5, b: 0, a: 0}
+    - Vector2_B2C0CCA0: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_B48D221C: {r: 0.06, g: 0.3, b: 0, a: 0}
+    - Vector2_ED407266: {r: 0, g: 1, b: 0, a: 0}

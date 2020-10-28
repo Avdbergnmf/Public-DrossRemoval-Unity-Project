@@ -1,0 +1,160 @@
+fileFormatVersion: 2
+guid: 571e95ecb54c77542abeb882f8b7d040
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Bath
+    100002: //RootNode
+    100004: Bridge
+    100006: Dross
+    100008: Environment
+    100010: Fence_1
+    100012: Fence_2
+    100014: Inlet
+    100016: Roller_Back
+    100018: Roller_Bath
+    100020: Roller_Frame_Back
+    100022: Roller_Frame_Front
+    100024: Roller_Front
+    100026: Sheet_metal
+    400000: Bath
+    400002: //RootNode
+    400004: Bridge
+    400006: Dross
+    400008: Environment
+    400010: Fence_1
+    400012: Fence_2
+    400014: Inlet
+    400016: Roller_Back
+    400018: Roller_Bath
+    400020: Roller_Frame_Back
+    400022: Roller_Frame_Front
+    400024: Roller_Front
+    400026: Sheet_metal
+    2100000: 'Material #25'
+    2100002: Shiny
+    2100004: Raster
+    2100006: Dross
+    2100008: Dull_Metal
+    2100010: Sheet
+    2100012: 06 - Default
+    2300000: Bath
+    2300002: Bridge
+    2300004: Dross
+    2300006: Environment
+    2300008: Fence_1
+    2300010: Fence_2
+    2300012: Inlet
+    2300014: Roller_Back
+    2300016: Roller_Bath
+    2300018: Roller_Frame_Back
+    2300020: Roller_Frame_Front
+    2300022: Roller_Front
+    2300024: Sheet_metal
+    3300000: Bath
+    3300002: Bridge
+    3300004: Dross
+    3300006: Environment
+    3300008: Fence_1
+    3300010: Fence_2
+    3300012: Inlet
+    3300014: Roller_Back
+    3300016: Roller_Bath
+    3300018: Roller_Frame_Back
+    3300020: Roller_Frame_Front
+    3300022: Roller_Front
+    3300024: Sheet_metal
+    4300000: Bath
+    4300002: Fence_2
+    4300004: Bridge
+    4300006: Dross
+    4300008: Roller_Bath
+    4300010: Inlet
+    4300012: Fence_1
+    4300014: Roller_Front
+    4300016: Roller_Back
+    4300018: Sheet_metal
+    4300020: Roller_Frame_Front
+    4300022: Roller_Frame_Back
+    4300024: Environment
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

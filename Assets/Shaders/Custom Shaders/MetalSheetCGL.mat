@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: MetalSheetCGL
+  m_Shader: {fileID: -6465566751694194690, guid: 20f0b3b85c73b32448163757af541c3a,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_37797065:
+        m_Texture: {fileID: 2800000, guid: eab696383bed88b4da159914c24a7d06, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_9BDF12F9:
+        m_Texture: {fileID: 2800000, guid: 77583f99dea53b641804bb357092ec83, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Vector1_17C08E51: 30
+    - Vector1_3185E95B: 1
+    - Vector1_3FA92926: 2
+    - Vector1_8DBAD424: 0.638
+    - Vector1_9F7A6A69: 1
+    - Vector1_A024E428: 0.3
+    - Vector1_A329D6EB: 5
+    - Vector1_B42449D2: 1
+    - Vector1_BB1F84BF: 0.5
+    - Vector1_C0DBBEF8: 0.9
+    - Vector1_C8A2DB05: 20
+    - Vector1_D196689: 0.025
+    - Vector1_DD8A4D0F: 0.5
+    - Vector1_E69659D2: 1
+    m_Colors:
+    - Color_C8ED1306: {r: 0.6981132, g: 0.6981132, b: 0.6981132, a: 0}
+    - Vector2_2499297F: {r: 0, g: 1, b: 0, a: 0}
+    - Vector2_29A72F4: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_44C7A978: {r: 25, g: 25, b: 0, a: 0}
+    - Vector2_77668B91: {r: 1, g: 1, b: 0, a: 0}
+    - Vector2_8B0BE9DA: {r: 0, g: 1, b: 0, a: 0}
+    - Vector2_BADED9BF: {r: 30, g: 0.5, b: 0, a: 0}
+    - Vector2_ED10B852: {r: 0.05, g: 0.1, b: 0, a: 0}
+    - Vector2_FE742260: {r: 1, g: 1, b: 0, a: 0}

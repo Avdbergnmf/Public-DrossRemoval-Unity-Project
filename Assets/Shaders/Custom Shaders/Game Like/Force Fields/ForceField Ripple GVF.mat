@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: ForceField Ripple GVF
+  m_Shader: {fileID: -6465566751694194690, guid: 0aec9cb8b1909504dbe01f4d29a267c7,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_71BEC8FC:
+        m_Texture: {fileID: 2800000, guid: 04402df0fd4a1224ea73064e09fa5949, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - Boolean_2F2C1A4C: 0
+    - Boolean_3B593950: 0
+    - Boolean_421DB806: 0
+    - Boolean_7541233C: 1
+    - Boolean_CBDCEB30: 0
+    - Vector1_1397251E: 5
+    - Vector1_1B17047D: 3
+    - Vector1_2E5C281E: 0.6
+    - Vector1_3FBBF56F: 0
+    - Vector1_437D0DA5: 0.49
+    - Vector1_5A5E474B: 0
+    - Vector1_6A2919E3: -0.59
+    - Vector1_6E733E91: 0.01
+    - Vector1_6F615F51: 0.39
+    - Vector1_CA4D659E: 0.01
+    - Vector1_CE40AB6C: 0
+    - Vector1_D1C77056: 0.5
+    - Vector1_D4D74D16: 5
+    - Vector1_E2BBDBC4: 0
+    - _AlphaMult: 1
+    - _BlinkSpeed: 10
+    - _BoundaryBrightness: 1
+    - _EnableBlink: 0
+    - _EnableCircle: 0
+    - _Hardness: 0
+    - _InnerSphereRadius: 0.37
+    - _RippleSphereOffset: 0.5
+    - _SphereRadius: 0.02
+    m_Colors:
+    - Color_AA0D08EB: {r: 33.89676, g: 5.324098, b: 0, a: 0}
+    - Vector2_1142FB91: {r: 1.5, g: 0, b: 0, a: 0}
+    - Vector3_D44C1D6A: {r: 0, g: 1.3, b: -0.96, a: 0}
+    - _BoundaryCenter: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 19.024475, g: 0, b: 15.26554, a: 1}
+    - _SphereCenter: {r: 20, g: 1.1, b: -0.93, a: 0}
